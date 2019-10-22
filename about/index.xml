@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I am thinking ...</title>
+    <link>https://homillyxiao.github.io/about/</link>
+    <description>Recent content on I am thinking ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2018</copyright>
+    
+	<atom:link href="https://homillyxiao.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://homillyxiao.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://homillyxiao.github.io/about/</guid>
+      <description>   My Go Journey  I decided to start learning Go in March 2017.
+Follow my journey through this new blog.
+  Post 1 Post 2   </description>
+    </item>
+    
+  </channel>
+</rss>

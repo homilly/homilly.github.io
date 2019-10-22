@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on I am thinking ...</title>
+    <link>https://homillyxiao.github.io/posts/</link>
+    <description>Recent content in Posts on I am thinking ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2018</copyright>
+    <lastBuildDate>Tue, 22 Oct 2019 11:12:59 +0800</lastBuildDate>
+    
+	<atom:link href="https://homillyxiao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
